@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\bin\Debug\SnakeSarpe.exe.config
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\bin\Debug\SnakeSarpe.exe
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\bin\Debug\SnakeSarpe.pdb
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\obj\Debug\SnakeSarpe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\obj\Debug\SnakeSarpe.Form1.resources
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\obj\Debug\SnakeSarpe.Properties.Resources.resources
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\obj\Debug\SnakeSarpe.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\obj\Debug\SnakeSarpe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\obj\Debug\SnakeSarpe.exe
+C:\Users\User\source\repos\SnakeSarpe\SnakeSarpe\obj\Debug\SnakeSarpe.pdb
